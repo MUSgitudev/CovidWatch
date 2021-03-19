@@ -1,5 +1,6 @@
 # CovidWatch
 Figma link: https://www.figma.com/file/kEwbLNpEwyJZvbBzGkrnWA/Assignment2?node-id=0%3A1
+
 COVIDWatch is an app that helps you stay up to date on latest COVID-19 statistics and provides helpful tips on how to stay safe. In addition this app provides a new way to interact with those in need of help and encourages people to be helpful to others in living a healthy life.
 
 Top 5 desirable features
